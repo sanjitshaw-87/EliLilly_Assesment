@@ -1,0 +1,20 @@
+{
+  "storeDetail": [
+    {
+      "categoryname": "Grocery",
+      "categoryid": "1"
+    },
+    {
+      "categoryname": "Vegetables",
+      "categoryid": "2"
+    },
+    {
+      "categoryname": "Snacks",
+      "categoryid": "3"
+    },
+    {
+      "categoryname": "Dairy",
+      "categoryid": "4"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "ProductList": [
+    {
+      "name": "Peanut",
+      "id": "1",
+      "categoryid": "1",
+      "price": "₹30.00",
+      "quantity": 0
+    },
+    {
+      "name": "Rice",
+      "id": "2",
+      "categoryid": "1",
+      "price": "₹20.00",
+      "quantity": 0
+    },
+    {
+      "name": "Dal",
+      "id": "3",
+      "categoryid": "1",
+      "price": "₹100.00",
+      "quantity": 0
+    },
+    {
+      "name": "Spices",
+      "id": "4",
+      "categoryid": "1",
+      "price": "₹20.00",
+      "quantity": 0
+    },
+    {
+      "name": "Oil",
+      "id": "5",
+      "categoryid": "1",
+      "price": "₹200.00",
+      "quantity": 0
+    },
+    {
+      "name": "Potato",
+      "id": "1",
+      "categoryid": "2",
+      "price": "₹30.00",
+      "quantity": 0
+    },
+    {
+      "name": "Onion",
+      "id": "2",
+      "categoryid": "2",
+      "price": "₹20.00",
+      "quantity": 0
+    },
+    {
+      "name": "Tomato",
+      "id": "3",
+      "categoryid": "2",
+      "price": "₹100.00",
+      "quantity": 0
+    },
+    {
+      "name": "Ginger",
+      "id": "4",
+      "categoryid": "2",
+      "price": "₹20.00",
+      "quantity": 0
+    },
+    {
+      "name": "Chips",
+      "id": "1",
+      "categoryid": "3",
+      "price": "₹20.00",
+      "quantity": 0
+    },
+    {
+      "name": "Biscuits",
+      "id": "2",
+      "categoryid": "3",
+      "price": "₹20.00",
+      "quantity": 0
+    },
+    {
+      "name": "Roasted Cashew",
+      "id": "3",
+      "categoryid": "4",
+      "price": "₹20.00",
+      "quantity": 0
+    },
+    {
+      "name": "Milk",
+      "id": "1",
+      "categoryid": "4",
+      "price": "₹20.00",
+      "quantity": 0
+    },
+    {
+      "name": "Bread",
+      "id": "2",
+      "categoryid": "4",
+      "price": "₹20.00",
+      "quantity": 0
+    },
+    {
+      "name": "Cheese",
+      "id": "3",
+      "categoryid": "4",
+      "price": "₹20.00",
+      "quantity": 0
+    },
+    {
+      "name": "Butter",
+      "id": "4",
+      "categoryid": "4",
+      "price": "₹20.00",
+      "quantity": 0
+    },
+    {
+      "name": "Curd",
+      "id": "5",
+      "categoryid": "4",
+      "price": "₹20.00",
+      "quantity": 0
+    }
+  ]
+}
